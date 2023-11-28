@@ -1,0 +1,46 @@
+﻿_id,Column Name,Definiton
+1,Responsibility_Parks or Operations,""
+2,Facility,Park name
+3,Division,Division within the Department of Public Works that manages this park
+4,Total Acreage,"Total area of the park, in acres"
+5,Maintainable Acreage,Area of the park that requires maintenance
+6,Shelter,Number of shelters
+7,Rec Center,Number of recreation centers
+8,Senior Center,Number of senior centers
+9,Pool,Number of swimming pools
+10,Spray Pool,Number of spray pools
+11,Play Area,Number of play areas with children
+12,Tennis Court with Lights,Number of tennis courts equipped with lights
+13,Tennis Court without NO Lights,Number of tennis courts without lights
+14,Basketball Full Court with Lights,Number of full basketball courts equipped with lights
+15,Basketball Full Court without Lights,Number of full basketball courts without lights
+16,Basketball half Court with Lights,Number of half-sized basketball courts equipped with lights
+17,Basketball Half Court without Lights,Number of half-sized basketball courts without lights
+18,Basketball Standards,Number of basketball hoops on the courts
+19,Multi-Purpose Court,Number of multi-purpose courts
+20,Funnel Ball,Number of funnel ball games
+21,Baseball Field with Lights,Number of baseball fields equipped with lights
+22,Baseball Field without lights,Number of baseball fields without lights
+23,Volleball Court,Number of volleyball courts
+24,Boccie Court,Number of boccie ball courts
+25,Hockey Court,Number of hockey courts
+26,Horseshoe,Number of horshoe games
+27,Drinking Fount,Number of drinking fountains
+28,Neighborhood,Neighborhood that the park is in
+29,Census Tract,Federal Census Tract
+30,Bleachers,Number of bleachers installed
+31,Council Dist,Community Development eligibility for funding
+32,CD Area,Pittsburgh City Council District number
+33,Grill,Number of grills installed
+34,Decorative Foutain,Number of decorative fountains installed
+35,Flag Pole,Number of flag poles installed
+36,Grandstand,Number of grandstands installed
+37,Control Link for Basketball Courts,Whether or not basketball courts have a control link
+38,Control Link for Tennis Court,Whether or not tennis courts have a control link
+39,Control Linkl for Hockey Court,Whether or not hockey courts have a control link
+40,Dek Hockey Court,Number of dek hockey courts
+41,Dog Park,Number of dog parks
+42,Spray Park,Number of spray parks
+43,Ownership of Facility,Who owns the facility
+44,Benches,Number of benches installed
+45,Tables,Number of tables installed
