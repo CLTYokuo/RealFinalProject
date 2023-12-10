@@ -3,9 +3,9 @@ Group 52: Team First Presenters
 
 Ryan Farrar -  |
 Ian Susko - iss47@pitt.edu |
-Jude 
+Jude jsn43@pitt.edu
 
-1. Morgage and Rent - https://data.wprdc.org/dataset/market-value-analysis-2021
+1. Median Sales Price - https://data.wprdc.org/dataset/market-value-analysis-2021
 2. Green Spaces - https://data.wprdc.org/dataset/operations-green-spaces
 3. Population Density
 
